@@ -12,9 +12,9 @@ The rest of the headers are feature enginered binary variables from the sentence
 
 
 Source prefixes:
-Walterfootball = WF_
-NFL tracker = NFLtracker_
-FFTools = FFTools_
-ESPN = ESPN_
-Gamehaus = Gamehaus_
-Drafttek = Drafttek_
+- Walterfootball = WF_
+- NFL tracker = NFLtracker_
+- FFTools = FFTools_
+- ESPN = ESPN_
+- Gamehaus = Gamehaus_
+- Drafttek = Drafttek_
