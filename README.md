@@ -7,7 +7,7 @@ Headers:
 - Year = Draft Year
 - Source = Source of text
 
-The rest of the headers are feature enginered texts indicating "Good" if the prospect had the trait/was good at the trait and vice versa for 
+The rest of the headers are feature enginered binary variables from the sentences indicating "Good" if the prospect had the trait/was good at the trait and vice versa for 
 "Bad".
 
 
